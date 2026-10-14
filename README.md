@@ -26,7 +26,6 @@
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Nawaz Sharif](https://linkedin.com/in/nawaz-sharif-181717)
-* **Email:** [contact@nawazsharif.in](mailto:contact@nawazsharif.in)
-
+* **LinkedIn:** [Nawaz Sharif](https://www.linkedin.com/in/nawaz-sharif)
+* **Email:** [hey.nawazsharif@gmail.com](mailto:hey.nawazsharif@gmail.com)
 > *"Security is not a product, but a process."* — Bruce Schneier
